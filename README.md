@@ -21,4 +21,4 @@ You will need a copy of a Windows Registry hive (e.g., `NTUSER.DAT`). Note: To a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Windows-Forensics-Tool.git](https://github.com/YOUR_USERNAME/Windows-Forensics-Tool.git)
+   git clone [https://github.com/sagarpanjwani3/-Malicious-Activity-Detection-Tool.git)
